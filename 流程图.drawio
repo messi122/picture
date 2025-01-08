@@ -5,13 +5,22 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="LcyuP8w0oWLG8xxyZ9vk-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-880" y="-720" width="410" height="220" as="geometry" />
+          <mxGeometry x="-860" y="-720" width="410" height="220" as="geometry" />
         </mxCell>
         <mxCell id="LcyuP8w0oWLG8xxyZ9vk-55" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-840" y="-670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LcyuP8w0oWLG8xxyZ9vk-56" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-650" y="-670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hGxMujTjJfGB1HTM37bD-54" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1000" y="-800" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hGxMujTjJfGB1HTM37bD-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hGxMujTjJfGB1HTM37bD-56" target="LcyuP8w0oWLG8xxyZ9vk-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hGxMujTjJfGB1HTM37bD-56" value="简单描述" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="-770" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
