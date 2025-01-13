@@ -1,9 +1,50 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="26.0.5">
   <diagram name="第 1 页" id="3xC0i13pA963EARv2Fnm">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="g5FMkj5_sutlST1C0PE7-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="g5FMkj5_sutlST1C0PE7-1" target="g5FMkj5_sutlST1C0PE7-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g5FMkj5_sutlST1C0PE7-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g5FMkj5_sutlST1C0PE7-1" target="g5FMkj5_sutlST1C0PE7-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g5FMkj5_sutlST1C0PE7-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;clife-senior-mall&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="290" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g5FMkj5_sutlST1C0PE7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g5FMkj5_sutlST1C0PE7-2" target="g5FMkj5_sutlST1C0PE7-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g5FMkj5_sutlST1C0PE7-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;clife-senior-archives&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="290" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g5FMkj5_sutlST1C0PE7-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g5FMkj5_sutlST1C0PE7-3" target="g5FMkj5_sutlST1C0PE7-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="400" />
+              <mxPoint x="460" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g5FMkj5_sutlST1C0PE7-3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;clife-senior-core&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="440" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g5FMkj5_sutlST1C0PE7-4" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;clife-senior-admin-app&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="130" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g5FMkj5_sutlST1C0PE7-12" value="&lt;div&gt;提供获取老人信&lt;/div&gt;&lt;div&gt;息的feign&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="250" y="240" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g5FMkj5_sutlST1C0PE7-13" value="&lt;div&gt;提供增加积分&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;的feign&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="490" y="210" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g5FMkj5_sutlST1C0PE7-14" value="&lt;div&gt;提供获取租户、机构、员工信息和用户信息的feign&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="280" y="360" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g5FMkj5_sutlST1C0PE7-15" value="&lt;div&gt;提供创建、同步积分账户的&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;的feign&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="540" y="370" width="130" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
