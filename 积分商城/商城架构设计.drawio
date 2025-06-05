@@ -4,6 +4,48 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kLtntkVkgudjvYjCQ5-P-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFF2CC;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="160" y="47" width="643" height="858" as="geometry" />
+        </mxCell>
+        <mxCell id="kLtntkVkgudjvYjCQ5-P-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="210" y="130" width="550" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kLtntkVkgudjvYjCQ5-P-3" value="订单业务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="220" y="135" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kLtntkVkgudjvYjCQ5-P-4" value="优惠券业务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="360" y="135" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kLtntkVkgudjvYjCQ5-P-5" value="商品业务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="500" y="137.5" width="110" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="kLtntkVkgudjvYjCQ5-P-6" value="积分业务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="630" y="137.5" width="110" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="kLtntkVkgudjvYjCQ5-P-11" value="业务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kLtntkVkgudjvYjCQ5-P-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="210" y="290" width="550" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="kLtntkVkgudjvYjCQ5-P-19" value="订单业务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="230" y="315" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kLtntkVkgudjvYjCQ5-P-20" value="优惠券业务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="370" y="315" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kLtntkVkgudjvYjCQ5-P-21" value="商品业务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="510" y="317.5" width="110" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="kLtntkVkgudjvYjCQ5-P-22" value="积分业务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="640" y="317.5" width="110" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="kLtntkVkgudjvYjCQ5-P-23" value="聚合领域" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kLtntkVkgudjvYjCQ5-P-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="210" y="610" width="550" height="270" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
