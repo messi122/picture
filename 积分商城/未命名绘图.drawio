@@ -1,11 +1,59 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="27.1.4">
   <diagram name="第 1 页" id="LqrRPboPkjJ6vP7KAgbQ">
-    <mxGraphModel dx="1426" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2253" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="LiIqGFgB_XzI-f_MpCbi-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="370" width="120" height="60" as="geometry" />
+        <mxCell id="LiIqGFgB_XzI-f_MpCbi-1" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;优惠券&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;coupon&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-20" y="400" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Vbmn4Byw29pIlSrUx4NU-1" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;优惠券模板规则&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;couponRule&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="590" y="400" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Vbmn4Byw29pIlSrUx4NU-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vbmn4Byw29pIlSrUx4NU-2" target="Vbmn4Byw29pIlSrUx4NU-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vbmn4Byw29pIlSrUx4NU-7" value="1..*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontColor=#FF3333;" vertex="1" connectable="0" parent="Vbmn4Byw29pIlSrUx4NU-4">
+          <mxGeometry x="-0.2286" y="1" relative="1" as="geometry">
+            <mxPoint x="44" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vbmn4Byw29pIlSrUx4NU-10" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontColor=#FF0000;" vertex="1" connectable="0" parent="Vbmn4Byw29pIlSrUx4NU-4">
+          <mxGeometry x="-0.65" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vbmn4Byw29pIlSrUx4NU-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vbmn4Byw29pIlSrUx4NU-2" target="LiIqGFgB_XzI-f_MpCbi-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vbmn4Byw29pIlSrUx4NU-13" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontColor=#FF3333;" vertex="1" connectable="0" parent="Vbmn4Byw29pIlSrUx4NU-5">
+          <mxGeometry x="-0.6" y="-2" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vbmn4Byw29pIlSrUx4NU-15" value="1..*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontColor=#FF3333;" vertex="1" connectable="0" parent="Vbmn4Byw29pIlSrUx4NU-5">
+          <mxGeometry x="0.5579" y="-4" relative="1" as="geometry">
+            <mxPoint y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vbmn4Byw29pIlSrUx4NU-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vbmn4Byw29pIlSrUx4NU-2" target="Vbmn4Byw29pIlSrUx4NU-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vbmn4Byw29pIlSrUx4NU-8" value="1..*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=#FF3333;" vertex="1" connectable="0" parent="Vbmn4Byw29pIlSrUx4NU-6">
+          <mxGeometry x="-0.1333" y="3" relative="1" as="geometry">
+            <mxPoint x="-3" y="27" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vbmn4Byw29pIlSrUx4NU-11" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontColor=#FF3333;" vertex="1" connectable="0" parent="Vbmn4Byw29pIlSrUx4NU-6">
+          <mxGeometry x="-0.68" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vbmn4Byw29pIlSrUx4NU-2" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;优惠券模板&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;couponTemplate&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="290" y="400" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Vbmn4Byw29pIlSrUx4NU-3" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;优惠券商品&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;couponGoods&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="290" y="600" width="150" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
