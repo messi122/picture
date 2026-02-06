@@ -34,7 +34,7 @@
           <mxGeometry height="50" width="90" x="110" y="440" as="geometry" />
         </mxCell>
         <mxCell id="2_hRqvnvhr-D2hZ95mpf-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="设备安全网络验证" vertex="1">
-          <mxGeometry height="60" width="120" x="90" y="540" as="geometry" />
+          <mxGeometry height="60" width="120" x="95" y="540" as="geometry" />
         </mxCell>
         <mxCell id="2_hRqvnvhr-D2hZ95mpf-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;" value="边&lt;div&gt;缘&lt;/div&gt;&lt;div&gt;网&lt;/div&gt;&lt;div&gt;关&lt;/div&gt;" vertex="1">
           <mxGeometry height="360" width="40" x="360" y="157.5" as="geometry" />
@@ -161,9 +161,11 @@
         </mxCell>
         <mxCell id="tg210zauCBoiz4xQBKgh-42" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=#CCE5FF;" value="">
           <mxGeometry height="100" relative="1" width="100" as="geometry">
-            <Array as="points" />
-            <mxPoint x="943" y="327.5" as="sourcePoint" />
-            <mxPoint x="1070" y="327.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="977" y="328" />
+            </Array>
+            <mxPoint x="930" y="327.5" as="sourcePoint" />
+            <mxPoint x="1057" y="327.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tg210zauCBoiz4xQBKgh-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;" value="设&lt;div&gt;备&lt;/div&gt;&lt;div&gt;数&lt;div&gt;据&lt;/div&gt;&lt;div&gt;接&lt;/div&gt;&lt;div&gt;入&lt;/div&gt;&lt;/div&gt;" vertex="1">
